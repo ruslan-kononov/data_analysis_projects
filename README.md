@@ -41,3 +41,5 @@ In this project:
 - I __trained and tested a univariate KNN model__ with various input features __to predict the target column__ `price`.
 - Based on the RMSE values from the univariate KNN model, I __selected the most informative input features and fed them into a multivariate KNN model__;
 - I __trained and tested a multivariate KNN model with various values of the hyperparameter__ `k` __and different validation approaches__ (holdout and k-fold validation).
+
+<a href="https://nbviewer.jupyter.org/github/ruslan-kononov/Guided-Project-Predicting-Car-Prices/blob/fef9ad457d804a64d41f73946d22b301226cf8ae/Predicting%20Car%20Prices.ipynb">Click here to view the jupyter notebook file</a>
